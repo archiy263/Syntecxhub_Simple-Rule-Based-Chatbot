@@ -1,0 +1,8 @@
+[2025-12-23 22:34:34] User: hii
+[2025-12-23 22:34:34] Bot: Hello!
+[2025-12-23 22:34:40] User: how are you
+[2025-12-23 22:34:40] Bot: Sorry, I didn’t understand that.
+[2025-12-23 22:34:47] User: welcome
+[2025-12-23 22:34:47] Bot: Sorry, I didn’t understand that.
+[2025-12-23 22:36:00] User: hii
+[2025-12-23 22:36:00] Bot: Hello!
